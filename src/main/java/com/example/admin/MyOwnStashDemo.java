@@ -11,4 +11,9 @@ public class MyOwnStashDemo {
 	public static void Method1() {
 		System.out.println("i am method1() invoking duty");
 	}
+	
+	public Integer method2() {
+		System.out.println("i am in and out");
+		return eno;
+	}
 }
